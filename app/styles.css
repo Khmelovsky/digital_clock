@@ -1,0 +1,19 @@
+body {
+    background-color: #3F51B5;
+}
+.clock {
+    position: fixed;
+    display: flex;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.clock span {
+    display: flex;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 5em;
+    font-weight: 400;
+    padding: 20px;
+    background-color: #C5CAE9;
+    color: #4CAF50;
+}
