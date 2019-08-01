@@ -10,8 +10,8 @@ const timer = () => {
    
     //console.log(h +':' + m +':' + s)
     const html = `
-        <span>${h}:</span>
-        <span>${m}:</span>
+        <span>${h} :</span>
+        <span>${m} :</span>
         <span>${s}</span>
         `;
 
